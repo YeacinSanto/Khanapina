@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.belly{
+    color: crimson;
+}
+section{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding: 8%;
+}
+.half img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(red,black);
+    padding: 10px;
+    color: gainsboro;
+    border-radius: 10px;
+}    
+#back{
+    background-image: url(back1.jpg);
+    background-repeat: no-repeat;
+}
+#back2{
+    background-image: url(back2.jpg);
+    background-repeat: no-repeat;
+}
