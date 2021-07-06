@@ -44,5 +44,25 @@ section{
 .last img{
     width: 80%;
     border-radius: 10%;
+}
+.population{
+    padding: 10%;
+   
+} 
 
+    
+    
+#box{
+    display: flex;
+    background-color: red;
+    border-radius: 90%;
+    
+    
+    
+}
+.foot{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    height: 200px;
 }
